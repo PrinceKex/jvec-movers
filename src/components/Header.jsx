@@ -1,6 +1,6 @@
 import { FaPhoneAlt } from 'react-icons/fa'
 import { Navbar } from './navbar'
-import logo from '../assets/logo.png'
+import logo from '../assets/LOGO.png'
 import CommonButton from './common-button'
 
 function Header() {
