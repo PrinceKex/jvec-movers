@@ -1,11 +1,11 @@
 import { Route, Routes } from 'react-router-dom'
 import CommonLayout from './components/CommonLayout/common-layout'
 
-import Home from './pages/home'
-import About from './pages/about'
-import Services from './pages/services'
-import More from './pages/more'
-import Contact from './pages/contact'
+import Home from './pages/Home'
+import About from './pages/About'
+import Services from './pages/Services'
+import More from './pages/More'
+import Contact from './pages/Contact'
 function App() {
   return (
     <>
