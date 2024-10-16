@@ -1,4 +1,4 @@
-import logo from '../assets/logo.png'
+import logo from '../assets/LOGO.png'
 import CommonButton from './common-button'
 import { FooterLinks } from './footerLinks'
 import { QuickLinks } from './quickLinks'
